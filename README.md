@@ -11,8 +11,7 @@ This is a simple password generator implemented in Python. It generates random p
 3. Open a terminal or command prompt and navigate to the directory where the `pw_generator.py` file is located.
 
 4. Run the following command to execute the script:
-
-"python pw_generator.py"
+'python pw_generator.py'
 
 
 5. You will be prompted to enter the desired length of the password.
